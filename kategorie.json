@@ -1,0 +1,22 @@
+[
+    {
+      "Name": "Business",
+      "Subcategories": ["Konferencia", "Workshop", "Seminár", "Networking", "Výstava", "Fórum - Expo"]
+    },
+    {
+      "Name": "Kultúra",
+      "Subcategories": ["Divadlo", "Kino", "Iné"]
+    },
+    {
+      "Name": "Hudba",
+      "Subcategories": ["Disco", "Rock", "Hip Hop", "Klasická", "Iné"]
+    },
+    {
+      "Name": "Šport",
+      "Subcategories": ["Beh", "Futbal", "Hokej", "Zimné športy", "Virtuálny pretek", "Atletika", "Iné"]
+    },
+    {
+      "Name": "Iné",
+      "Subcategories": ["Párty", "Iné"]
+    }
+  ]
